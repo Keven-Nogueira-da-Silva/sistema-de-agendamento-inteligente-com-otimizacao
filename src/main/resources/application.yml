@@ -1,0 +1,6 @@
+spring:
+  ai:
+    azure:
+      openai:
+        endpoint: "https://<seu-endpoint>.openai.azure.com/"
+        key: "<sua-chave-de-api>"
